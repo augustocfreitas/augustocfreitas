@@ -8,4 +8,4 @@
 
 💼 I am currently employed as a Full Stack Junior Software Developer at U4C.
 
-🏆 Thank you for taking the time to visit my GitHub portfolio. I hope my projects demonstrate my passion for software development and my skills as a Full Stack Junior Developer. Please feel free to reach out to me if you have any questions or opportunities for collaboration.
+🏆 Thank you for taking the time to visit my GitHub portfolio. I hope my projects demonstrate my passion for software development and my skills as a Full Stack Developer. Please feel free to reach out to me if you have any questions or opportunities for collaboration.
