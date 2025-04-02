@@ -1,11 +1,15 @@
-### Hello, and welcome to my GitHub portfolio!
+👋 Hello, and welcome to my GitHub portfolio!
 
-🥇 My name is Augusto Coutinho, and I am a Back-End Developer with a solid background in Software Engineering from Pontifical Catholic University of Minas Gerais (PUC Minas). My passion for software development is driven by my curiosity, problem-solving skills, communication abilities, and flexibility.
+🚀 My name is Augusto Coutinho, and I’m a Tech Lead and Back-End Software Engineer with a strong academic background in Software Engineering from Pontifical Catholic University of Minas Gerais (PUC Minas). I’m passionate about designing scalable, high-performance systems that solve real-world problems through clean architecture and resilient engineering.
 
-🥈 As a Back-End Developer, I have a deep understanding of JavaScript, TypeScript, and Object-Oriented Programming concepts. I have used these skills to create robust and scalable web applications. My curiosity for learning new technologies and frameworks has kept me up-to-date with the latest industry trends, and I am always keen to explore new opportunities.
+🔧 I specialize in Node.js, TypeScript, PostgreSQL, Redis, and cloud-native development with Docker and Kubernetes. I have hands-on experience with microservices, event-driven architecture, and high-throughput APIs. My main focus is building reliable systems that support large-scale applications, including a Pix platform that processes over 2 million transactions daily and handles 500+ transactions per second.
 
-🥉In addition to my technical skills, I am an excellent communicator, and I can articulate my ideas and solutions clearly. My flexibility and ability to work in a team environment make me an asset to any software development team. I have a passion for resolving problems, and my curiosity to learn more is contagious. I am always willing to go the extra mile to achieve the best possible outcome.
+🏗️ I’ve led backend teams through all phases of software development — from designing architecture and setting standards, to mentoring developers and optimizing CI/CD pipelines. I value engineering metrics, observability, and automation as essential tools for sustainable delivery.
 
-💼 I am currently employed as a Full Stack Software Developer at U4C.
+👥 As a technical leader, I prioritize people. I run 1:1s, give structured feedback, and support career growth through Individual Development Plans (IDPs). I believe strong teams build strong systems, and I work every day to create a culture of trust, learning, and excellence.
 
-🏆 Thank you for taking the time to visit my GitHub portfolio. I hope my projects demonstrate my passion for software development and my skills as a Full Stack Developer. Please feel free to reach out to me if you have any questions or opportunities for collaboration.
+📚 I'm also passionate about continuous learning and knowledge sharing. I actively contribute to documentation, mentor junior devs, and enjoy participating in coding challenges, meetups, and tech communities.
+
+💼 Currently, I work as a Tech Lead at Okto, leading the backend team of the Payments Pix squad.
+
+📬 Thanks for stopping by! Feel free to explore my projects, open issues, or reach out if you'd like to collaborate, exchange ideas, or just chat about backend engineering, distributed systems, or career growth in tech.
